@@ -1,0 +1,88 @@
+/* CSS files add styling rules to your content */
+
+.gap-130 {
+  margin-top: 130px;
+}
+
+.green-bg {
+  background-color: #a8dadc;
+}
+
+body {
+  font-family: "Source Sans Pro", sans-serif;
+}
+
+.cursive {
+  font-family: "Playfair Display", serif;
+}
+
+.cursive.slant {
+  font-style: italic;
+}
+
+#head {
+  padding-top: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+/**
+  The introduction section
+  */
+
+#introduction {
+  color: #1d3557;
+  padding-bottom: 70px;
+}
+
+#introduction p {
+  font-size: 34px;
+  margin-bottom: inherit;
+}
+
+#img-toucan {
+  border: 20px solid #ffcac4;
+  width: 100%;
+}
+
+#catchphrase {
+  font-weight: bold;
+}
+
+#meet-team {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: #f3e7ba;
+  text-align: right;
+}
+
+.big-text {
+  font-size: 30px;
+}
+
+#best-work {
+  text-align: center;
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background: #ffcac4;
+}
+
+#best-work .cakes .col img {
+  width: 100%;
+  padding: 20px;
+  margin-bottom: 20px;
+}
+
+.title-text {
+  padding-bottom: 30px;
+}
+
+#sample-recipe {
+  padding: 30px 0;
+  background: #f3e7ba;
+}
+#sample-recipe .instructions {
+  margin-top: 30px;
+}
